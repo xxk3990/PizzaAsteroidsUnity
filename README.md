@@ -1,10 +1,11 @@
 # PizzaAsteroidsUnity
+## Xander Kaylan | Asteroids Documentation Page
+<br>
 Pizza Asteroids with original C# code and unity build.
-Xander Kaylan | Asteroids Documentation Page
 <br>
-ASTEROIDS PIZZA!
+## ASTEROIDS PIZZA!
 <br>
-DESCRIPTION
+### DESCRIPTION
 <br>
 ●	Asteroids type game where the user shoots bullets at asteroids. In this version, it is a slice of pizza shooting lasers at pepperoni.
 <br>
@@ -18,7 +19,7 @@ DESCRIPTION
 	<br>
 ●	Game Over scene which is activated when the number of lives hits zero. It has a button to play asteroids again, and when you click it will load the original scene, with lives and points reset. If you eliminate all the small asteroids, more big ones will just spawn.
 <br>
-FUNCTIONALITY
+### FUNCTIONALITY
 <br>
 ●	Controls
 <br>
@@ -28,7 +29,7 @@ FUNCTIONALITY
 	<br>
   ○	Spacebar to fire lasers
 	<br>
-SOURCES:
+### SOURCES:
 <br>
 Bullet, from PixelArtMaker:
 <br>
