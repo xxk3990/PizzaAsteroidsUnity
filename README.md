@@ -7,7 +7,7 @@ Pizza Asteroids with original C# code and unity build.
 Version of Unity: 2018 3.7f1
 <br>
 <br>
-●	Used Unity 2D to create Asteroids type game where the user shoots bullets at asteroids. In this version, it is a slice of pizza shooting lasers at pepperoni.
+●	Used Unity 2D and C# to create Asteroids type game where the user shoots bullets at asteroids. In this version, it is a slice of pizza shooting lasers at pepperoni.
 <br>
 	When the bullet collides with the asteroid, the asteroid breaks into two pieces and the user’s points go up by 20. When the user hits one of the smaller ones, it disappears and the user gets 50 points.
 	<br>
