@@ -15,7 +15,7 @@ Version of Unity: 2018 3.7f1
 <br>
 	  When the ship hits an asteroid the number of lives decreases by one
   <br>
-	  Brief time of immunity where the user cannot be hit, ship flashes back and forth between 100% and 25% opacity during this 
+	    Brief time of immunity where the user cannot be hit, ship flashes back and forth between 100% and 25% opacity during this 
     time.
 	<br>
 	<br>
@@ -56,4 +56,3 @@ Background image, from Pexels:
 <br>
 Link: https://www.pexels.com/photo/baked-pizza-on-pizza-peel-in-oven-905847/
 <br>
-All the code for this is my own.
