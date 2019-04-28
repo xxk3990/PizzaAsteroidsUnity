@@ -13,10 +13,7 @@ Version of Unity: 2018 3.7f1
 	<br>
 	Hand coded Circle collision detection for when bullet hits asteroid and when vehicle hits asteroids
 <br>
-	  When the ship hits an asteroid the number of lives decreases by one
-  <br>
-	   When ship is hit, it becomes immune for a brief period. The ship flashes back and forth between 
-        100% and 25% opacity during this time.
+	  When the ship hits an asteroid the number of lives decreases by one. After being hit, ship becomes immune for a brief period. During this time, the ship flashes back and forth between 100% and 25% opacity.
 	<br>
 	<br>
 ● Game Over scene which is activated when the number of lives hits zero. It has a button to play again, and when you click it will load the original scene, with lives and points reset. If you eliminate all the small asteroids, more big ones will just spawn.
