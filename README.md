@@ -10,7 +10,7 @@ DESCRIPTION
 <br>
   ○	When the bullet collides with the asteroid, the asteroid breaks into two pieces and the user’s points go up by 20. When the user hits one of the smaller ones, it disappears and the user gets 50 points.
 	<br>
-●	Circle collision detection for when bullet hits asteroid and when vehicle hits them
+●	Circle collision detection for when bullet hits asteroid and when vehicle hits asteroids
 <br>
   ○	When the ship hits an asteroid the number of lives decreases by one
 	<br>
