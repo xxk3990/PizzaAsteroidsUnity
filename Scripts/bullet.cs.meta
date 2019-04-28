@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d4c322ce519b4da4b87c16cee615d73a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pepSmall: {fileID: 1540446127263842, guid: aae28ec302d8ac448b9e14cdd0c25382, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
