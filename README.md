@@ -15,8 +15,8 @@ Version of Unity: 2018 3.7f1
 <br>
 	  When the ship hits an asteroid the number of lives decreases by one
   <br>
-	    Brief time of immunity where the user cannot be hit, ship flashes back and forth between 100% and 25% opacity during this 
-    time.
+	   When ship is it, there is a brief time of immunity where the user cannot be hit, ship flashes back and forth between 
+        100% and 25% opacity during this time.
 	<br>
 	<br>
 ● Game Over scene which is activated when the number of lives hits zero. It has a button to play again, and when you click it will load the original scene, with lives and points reset. If you eliminate all the small asteroids, more big ones will just spawn.
